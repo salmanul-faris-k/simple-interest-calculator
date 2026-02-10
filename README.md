@@ -1,8 +1,31 @@
-# React + Vite
+# Simple Interest Calculator 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive **Simple Interest Calculator** built using **React + Vite**.  
+It helps users calculate simple interest quickly and easily.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 https://intereset.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Calculate simple interest instantly
+- Clean and modern UI
+- Responsive design
+- Fast performance with Vite
+
+## 🛠 Tech Stack
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
+
+## 📂 Project Setup
+```bash
+npm install
+npm run dev
+
+
+👨‍💻 Author
+
+Salmanul Faris K
+GitHub: https://github.com/salmanul-faris-k
