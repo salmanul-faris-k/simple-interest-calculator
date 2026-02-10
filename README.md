@@ -25,7 +25,7 @@ npm install
 npm run dev
 
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Salmanul Faris K
 GitHub: https://github.com/salmanul-faris-k
